@@ -40,3 +40,5 @@ The Indian Food Analysis Dashboard is an interactive data visualization project 
  Sales quantities differ across times of day.
  Cash, online payments, and UPI contribute to the overall transaction distribution.
  The dashboard provides a detailed view of order-level quantities and transaction amounts.
+**Screenshot / Demos**
+Show what the dashboard look like.-![Alt text](https://github.com/mdsohelashfaq32-bot/food-analysis-/blob/main/fast_food%20Dashborad.png)
