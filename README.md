@@ -4,6 +4,7 @@ The Indian Food Analysis Dashboard is an interactive data visualization project 
 
 
 **Dashboard Features**
+
 1.Key Performance Indicators (KPIs)
   Displays the total number of transactions.
   Shows the total quantity of items sold.
@@ -40,6 +41,7 @@ The Indian Food Analysis Dashboard is an interactive data visualization project 
   Allows users to explore data for selected months and analyze sales trends.
   
 **Tools and Technologies**
+
 ●Power BI: Dashboard creation and data visualization.
 ●Kaggle: Dataset source.
 ●Data Analysis: Sales trend analysis and customer purchasing pattern analysis.
@@ -47,6 +49,7 @@ The Indian Food Analysis Dashboard is an interactive data visualization project 
 
 
 **Key Insights**
+
  Monthly transaction volumes vary throughout the year.
  Cold coffee, sugarcane juice, and panipuri are among the food items compared by quantity sold.
  Sales quantities differ across times of day.
