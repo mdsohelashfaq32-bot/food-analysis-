@@ -43,18 +43,27 @@ The Indian Food Analysis Dashboard is an interactive data visualization project 
 **Tools and Technologies**
 
 ●Power BI: Dashboard creation and data visualization.
+
 ●Kaggle: Dataset source.
+
 ●Data Analysis: Sales trend analysis and customer purchasing pattern analysis.
+
 ●Data Visualization: Bar charts, line charts, donut charts, KPI cards, and transaction tables.
+
 
 
 **Key Insights**
 
  Monthly transaction volumes vary throughout the year.
+ 
  Cold coffee, sugarcane juice, and panipuri are among the food items compared by quantity sold.
+ 
  Sales quantities differ across times of day.
+ 
  Cash, online payments, and UPI contribute to the overall transaction distribution.
+ 
  The dashboard provides a detailed view of order-level quantities and transaction amounts.
+ 
 
  
 **Screenshot / Demos**
